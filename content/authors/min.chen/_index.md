@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student at CISPA Helmholtz Center for Information Security, co-supervised by Prof. Michael Backes and Dr. Yang Zhang. My research interests include biomedical privacy and machine learning privacy.
+I am a Ph.D. student at [CISPA Helmholtz Center for Information Security](http://cispa.saarland/), co-supervised by [Prof. Michael Backes](https://cispa.saarland/people/backes/) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). My research interests include biomedical privacy and machine learning privacy.
