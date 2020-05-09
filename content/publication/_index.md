@@ -12,15 +12,21 @@ view: 4
 header:
   caption: "RF-based charger placement for duty cycle guarantee in battery-free sensor networks"
   image: ""
+---
 
+---
 header:
   caption: "Performance Testbed for Energy Harvesting and Consumption in Wireless Sensor Network"
   image: ""
- 
+---
+
+--- 
 header:
   caption: "Ultra Low Power Passive Structure Health Monitoring System"
   image: ""
+---
 
+---
 header:
   caption: "An Equipment for Ultra Low Power Passive Structure Strain Monitoring"
   image: ""
