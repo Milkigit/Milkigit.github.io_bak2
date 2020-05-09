@@ -30,11 +30,11 @@ interests:
 education:
   courses:
   - course: MEng in Control Science and Engineering
-    institution: Zhejiang University
-    year: 2017
+    institution: Zhejiang University @ China.Zhejiang
+    year: 2014 - 2017
   - course: BSc in Telecommunication Science and Technology
-    institution: Lanzhou University
-    year: 2014
+    institution: Lanzhou University @ China.Gansu
+    year: 2010 - 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
